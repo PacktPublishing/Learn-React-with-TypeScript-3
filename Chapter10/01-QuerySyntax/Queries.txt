@@ -1,0 +1,90 @@
+// Basic queries
+
+query {
+  viewer {
+    name
+  }
+}
+
+query {
+  viewer {
+    name
+    avatarUrl
+  }
+}
+
+
+// Nested data
+
+query {
+  repository (owner:"facebook", name:"react") {
+    name
+    description
+  }
+}
+
+query {
+  repository (owner:"facebook", name:"react") {
+    name
+    description
+    stargazers {
+      totalCount
+    }
+  }
+}
+
+query {
+  repository (owner:"facebook", name:"react") {
+    name
+    description
+    stargazers {
+      stars: totalCount
+    }
+  }
+}
+
+query {
+  repository (owner:"facebook", name:"react") {
+    name
+    description
+    stargazers {
+      stars: totalCount
+    }
+    issues(last: 5) {
+      edges {
+        node {
+          id
+          title
+          url
+          publishedAt
+        }
+      }
+    }
+  }
+}
+
+// Query parameters
+
+query ($org: String!, $repo: String!) {
+  repository (owner:$org, name:$repo) {
+    name
+    description
+    stargazers {
+      stars: totalCount
+    }
+    issues(last: 5) {
+      edges {
+        node {
+          id
+          title
+          url
+          publishedAt
+        }
+      }
+    }
+  }
+}
+{
+ "org": "facebook",
+ "repo": "react"
+}

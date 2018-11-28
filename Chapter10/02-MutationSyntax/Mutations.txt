@@ -1,0 +1,12 @@
+mutation ($repoId: ID!) {
+  addStar(input: { starrableId: $repoId }) {
+    starrable {
+      stargazers {
+        totalCount
+      }
+    }
+  }
+}
+{
+ "repoId": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA=="
+}

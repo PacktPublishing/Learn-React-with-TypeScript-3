@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.avatar {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.repo-search {
+  margin: 30px auto;
+  width: 300px;
+  font-family: Arial;
+  font-size: 16px;
+  text-align: left;
+}
+.repo-search label {
+  display: block;
+  margin-bottom: 3px;
+  font-size: 14px;
+}
+.repo-search input {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #676666;
+  width: 100%;
+}
+.repo-search button {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.repo-search h4 {
+  text-align: center;
+}

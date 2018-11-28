@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App When page loads, posts are rendered 1`] = `
+<ul
+  class="posts"
+  data-testid="posts"
+>
+  <li>
+    <h3>
+      title test 1
+    </h3>
+    <p>
+      body test 1
+    </p>
+    <button>
+      Update
+    </button>
+    <button>
+      Delete
+    </button>
+  </li>
+  <li>
+    <h3>
+      title test 2
+    </h3>
+    <p>
+      body test 2
+    </p>
+    <button>
+      Update
+    </button>
+    <button>
+      Delete
+    </button>
+  </li>
+</ul>
+`;

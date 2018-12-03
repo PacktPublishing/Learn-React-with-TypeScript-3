@@ -7,7 +7,7 @@ This is the code repository for [](https://www.packtpub.com/web-development/lear
 **Beginner's guide to modern React web development with TypeScript 3**
 
 ## What is this book about?
-0
+React today is one of the most loved and preferred choices for front-end development. Using React with TypeScript enhances development experience and offers a powerful combination to develop high performing web apps. This book will take you through a journey of web development with the help of the latest version of React and TypeScript 3.
 
 This book covers the following exciting features:
 

@@ -4,7 +4,7 @@
 
 This is the code repository for [](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
-# Beginner's guide to modern React web development with TypeScript 3
+**Beginner's guide to modern React web development with TypeScript 3**
 
 ## What is this book about?
 0

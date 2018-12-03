@@ -10,6 +10,11 @@ This is the code repository for [](https://www.packtpub.com/web-development/lear
 React today is one of the most loved and preferred choices for front-end development. Using React with TypeScript enhances development experience and offers a powerful combination to develop high performing web apps. This book will take you through a journey of web development with the help of the latest version of React and TypeScript 3.
 
 This book covers the following exciting features:
+* Gain a first-hand experience of TypeScript and its productivity features 
+* Transpile your TypeScript code into JavaScript for it to run in a browser 
+* Learn relevant advanced types in TypeScript for creating strongly typed and reusable components.
+* Create stateful function-based components that handle lifecycle events using hooks 
+* Get to know what GraphQL is and how to work with it by executing basic queries to get familiar with the syntax
 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789610257) today!

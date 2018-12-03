@@ -40,9 +40,9 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| All | Chrome | Windows 7 or later |
-| All | Node.js 8.2+ and npm 5.2+ | Windows 7 or later |
-| All | Visual Studio Code | Windows 7 or later |
+| All | Chrome (latest) | Windows 7 or later OS X Yosemite 10.10 or later|
+| All | Node.js 8.2+ and npm 5.2+ | Windows 7 or later OS X Yosemite 10.10 or later |
+| All | Visual Studio Code (latest) | Windows 7 or later OS X Yosemite 10.10 or later |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789610253_ColorImages.pdf).

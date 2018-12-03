@@ -1,4 +1,4 @@
-# 
+# Learn React with TypeScript 3
 
 <a href="https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
@@ -38,13 +38,7 @@ With the following software and hardware list you can run all code files present
 | All | Chrome | Windows 7 or later |
 | All | Node.js 8.2+ and npm 5.2+ | Windows 7 or later |
 | All | Visual Studio Code | Windows 7 or later |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789610253_ColorImages.pdf).
 
@@ -53,36 +47,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Full-Stack React Projects  [[Packt]](https://india.packtpub.com/in//web-development/full-stack-react-projects?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788835530)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Carl Rippon**
 has been involved in the software industry for over 20 years, developing a complex line of business applications in various sectors. He has spent the last eight years building single page applications using a wide range of JavaScript technologies, including Angular, ReactJS, and TypeScript. Carl has written over 100 blog posts on various technologies.
 
-****
-0
 
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

@@ -34,7 +34,7 @@ const App: React.SFC = () => {
 ```
 
 **Following is what you need for this book:**
-0
+The ideal target audience for this book are web developers who want to get started with creating modern day web apps with React and TypeScript.You are expected to have a basic understanding of JavaScript and HTML programming. No prior knowledge of TypeScript and React is needed.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 ### Software and Hardware List

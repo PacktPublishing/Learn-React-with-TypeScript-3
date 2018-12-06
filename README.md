@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=9781789610253"><img src="https://www.packtpub.com/sites/default/files/9781789610253_cover.png" alt="Learn React with TypeScript 3" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Learn React with TypeScript 3](https://www.packtpub.com/web-development/learn-react-typescript-3), published by Packt.
 
 **Beginner's guide to modern React web development with TypeScript 3**
 

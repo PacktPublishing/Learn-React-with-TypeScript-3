@@ -47,7 +47,8 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789610253_ColorImages.pdf).
 
 ### Errata
-* Chapter name: TypeScript Basics, page number: 46- The following paragraph which is after point 10 is included bymistakely should be ignored. 
+* Chapter name: **TypeScript Basics, page number: 46**- The following paragraph which is after point 10 is included bymistakely should be ignored. 
+
 _However, omitting the parameter names arguably makes the interface harder to
 understand—how do we know exactly what the parameter is for?_
 

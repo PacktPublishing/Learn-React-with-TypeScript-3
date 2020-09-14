@@ -44,8 +44,12 @@ With the following software and hardware list you can run all code files present
 | All | Node.js 8.2+ and npm 5.2+ | Windows 7 or later OS X Yosemite 10.10 or later |
 | All | Visual Studio Code (latest) | Windows 7 or later OS X Yosemite 10.10 or later |
 
-
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789610253_ColorImages.pdf).
+
+### Errata
+* Chapter name: TypeScript Basics, page number: 46- The following paragraph which is after point 10 is included bymistakely should be ignored. 
+_However, omitting the parameter names arguably makes the interface harder to
+understand—how do we know exactly what the parameter is for?_
 
 ### Related products
 * React Cookbook  [[Packt]](https://india.packtpub.com/in//web-development/react-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783980729)

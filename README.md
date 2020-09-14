@@ -49,8 +49,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Errata
 * Chapter name: **TypeScript Basics, page number: 46**- The following paragraph which is after point 10 is included bymistakely should be ignored. 
 
-_However, omitting the parameter names arguably makes the interface harder to
-understand—how do we know exactly what the parameter is for?_
+   _However, omitting the parameter names arguably makes the interface harder to
+    understand—how do we know exactly what the parameter is for?_
 
 ### Related products
 * React Cookbook  [[Packt]](https://india.packtpub.com/in//web-development/react-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783980729)

@@ -51,6 +51,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
    _However, omitting the parameter names arguably makes the interface harder to
     understand—how do we know exactly what the parameter is for?_
+    
+* Page number: **100** - Create React App now uses a function component and so _step 5_ is no longer necessary.
+* Page number: **106** - bundle.js should be removed from the folder listing.
 
 ### Related products
 * React Cookbook  [[Packt]](https://india.packtpub.com/in//web-development/react-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783980729)

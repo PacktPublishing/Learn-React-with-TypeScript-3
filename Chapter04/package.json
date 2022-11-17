@@ -10,7 +10,7 @@
     "react": "^16.7.0-alpha.0",
     "react-dom": "^16.7.0-alpha.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "react-transition-group": "^2.5.0",
     "typescript": "3.1.6",
     "url-search-params-polyfill": "^5.0.0"

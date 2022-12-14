@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789610253)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learn React with TypeScript 3
 
 <a href="https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=9781789610253"><img src="https://www.packtpub.com/sites/default/files/9781789610253_cover.png" alt="Learn React with TypeScript 3" height="256px" align="right"></a>
